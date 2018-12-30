@@ -1,4 +1,4 @@
-Twitter Sentiment Analysis using Deep Learning algorithm CNN with Word2Vec
+Twitter Sentiment Analysis using SVM and TF-IDF.
 
 This project is on Twitter sentiment analysis. It is a solution for the Analytics vidya competetion - "Twitter Sentiment Analysis".
 It classifies the user tweets into 2 classes i.e Hate speech vs Non hate speech.
